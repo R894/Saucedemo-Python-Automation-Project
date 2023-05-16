@@ -85,3 +85,69 @@
 2023-05-15 21:38:47,592 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
 2023-05-15 21:38:48,910 - root - INFO - *********** Test_002_DDT_Login ***************
 2023-05-15 21:38:48,910 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 15:52:55,596 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 15:53:00,007 - root - INFO - *********** Test_001_Login **************
+2023-05-16 15:53:00,008 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-16 15:53:00,008 - root - INFO - *********** Verifying login test **************
+2023-05-16 15:53:02,181 - root - ERROR - *********** home page title test failed **************
+2023-05-16 15:54:41,903 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 15:54:41,903 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 15:54:43,257 - root - INFO - *********** Verifying login test **************
+2023-05-16 15:54:43,904 - root - INFO - *********** Test_001_Login **************
+2023-05-16 15:54:43,904 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-16 15:54:45,818 - root - ERROR - *********** home page title test failed **************
+2023-05-16 15:58:42,557 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 15:58:42,557 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 15:58:44,126 - root - INFO - *********** Verifying login test **************
+2023-05-16 15:58:44,157 - root - INFO - *********** Test_001_Login **************
+2023-05-16 15:58:44,157 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-16 15:58:45,995 - root - INFO - *********** home page title test is passed **************
+2023-05-16 15:58:48,435 - root - ERROR - ********** test_login FAIL **********
+2023-05-16 16:03:23,116 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:03:23,116 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:03:24,723 - root - INFO - *********** Test_001_Login **************
+2023-05-16 16:03:24,723 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-16 16:03:24,758 - root - INFO - *********** Verifying login test **************
+2023-05-16 16:03:26,677 - root - INFO - *********** home page title test is passed **************
+2023-05-16 16:03:26,775 - root - INFO - *********** ENTERING LOGIN CREDENTIALS **************
+2023-05-16 16:03:27,081 - root - INFO - *********** LOGGING IN **************
+2023-05-16 16:03:29,086 - root - INFO - ********** test_login PASS **********
+2023-05-16 16:40:59,838 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:41:01,235 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:41:01,235 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:41:03,229 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:41:46,430 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:41:47,852 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:41:47,852 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:41:49,777 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:41:55,172 - root - ERROR - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-16 16:42:22,582 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:42:24,003 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:42:24,003 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:42:25,903 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:47:16,938 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:47:18,378 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:47:18,378 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:47:20,280 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:48:50,965 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:48:52,255 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:48:52,255 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:48:54,263 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:49:45,782 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:49:47,155 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:49:47,155 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:49:49,088 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:50:18,615 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:50:20,029 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:50:20,029 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:50:21,913 - root - ERROR - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:50:28,222 - root - ERROR - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-16 16:52:53,358 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-16 16:52:54,745 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-16 16:52:54,746 - root - INFO - *********** Verifying login DDT test **************
+2023-05-16 16:52:56,633 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-16 16:53:02,605 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-16 16:53:07,869 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-16 16:53:13,750 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-16 16:53:18,965 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-16 16:53:29,853 - root - INFO - ********** test_login PASS **********

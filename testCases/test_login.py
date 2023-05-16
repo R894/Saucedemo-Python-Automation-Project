@@ -1,9 +1,10 @@
+import time
+
 import pytest
 from selenium import webdriver
-from pageObjects.LoginPage import LoginPage
-from pageObjects.HomePage import HomePage
-from utilities.readProperties import ReadConfig
-from utilities.customLogger import LogGen
+from pageObjects.login_page import LoginPage
+from utilities.read_properties import ReadConfig
+from utilities.custom_logger import LogGen
 
 
 class Test_001_Login:
@@ -21,7 +22,7 @@ class Test_001_Login:
         self.driver.get(self.baseURL)
         act_title = self.driver.title
 
-        if act_title == "sometitle":
+        if act_title == "Swag Labs":
             assert True
             self.logger.info("*********** home page title test is passed **************")
             self.driver.close()
@@ -37,9 +38,20 @@ class Test_001_Login:
         self.driver.get(self.baseURL)
 
         self.lp = LoginPage(self.driver)
-        self.hp = HomePage(self.driver)
+        current_url = self.driver.current_url
 
-        self.hp.clickLogin()
-        self.lp.setUserName(self.username)
-        self.lp.setPassword(self.password)
-        self.lp.clickLogin()
+        self.logger.info("*********** ENTERING LOGIN CREDENTIALS **************")
+
+        self.lp.set_user_name(self.username)
+        self.lp.set_password(self.password)
+        self.lp.click_login()
+
+        self.logger.info("*********** LOGGING IN **************")
+
+        time.sleep(2)
+        if current_url != self.driver.current_url:
+            self.logger.info("********** test_login PASS **********")
+            assert True
+        else:
+            self.logger.error("********** test_login FAIL **********")
+            assert False

@@ -1,29 +1,29 @@
 import openpyxl
 
 
-def getRowCount(file, sheetName):
+def get_row_count(file, sheet_name):
     workbook = openpyxl.load_workbook(file)
-    sheet = workbook[sheetName]
+    sheet = workbook[sheet_name]
     return sheet.max_row
 
 
-def getColumnCount(file, sheetName):
+def get_column_count(file, sheet_name):
     workbook = openpyxl.load_workbook(file)
-    sheet = workbook[sheetName]
+    sheet = workbook[sheet_name]
     return sheet.max_column
 
 
-def readData(file, sheetName, rowNum, columNum):
+def read_data(file, sheet_name, row_num, column_num):
     workbook = openpyxl.load_workbook(file)
-    sheet = workbook[sheetName]
+    sheet = workbook[sheet_name]
 
-    return sheet.cell(row=rowNum, column=columNum).value
+    return sheet.cell(row=row_num, column=column_num).value
 
 
-def writeData(file, sheetName, rowNum, columnNum, data):
+def write_data(file, sheet_name, row_num, column_num, data):
     workbook = openpyxl.load_workbook(file)
-    sheet = workbook[sheetName]
-    sheet.cell(row=rowNum, column= columnNum).value = data
+    sheet = workbook[sheet_name]
+    sheet.cell(row=row_num, column= column_num).value = data
     workbook.save(file)
 
 
