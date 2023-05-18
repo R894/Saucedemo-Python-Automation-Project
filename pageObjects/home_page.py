@@ -19,6 +19,7 @@ class HomePage(BasePage):
 
     def get_shoppingcart_button(self):
         return self.driver.find_element(By.ID, self.button_shoppingcart_id)
+
     def get_burger_menu(self):
         return self.driver.find_element(By.CSS_SELECTOR, self.button_burger_menu_button_css_selector)
 
@@ -26,7 +27,7 @@ class HomePage(BasePage):
         return self.driver.find_element(By.ID, self.button_logout_id)
 
     def click_burger_menu(self):
-        self.get_burger_menu().click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable(self.get_burger_menu())).click()
 
     def click_logout_button(self):
         logout_button = self.get_logout_button()
