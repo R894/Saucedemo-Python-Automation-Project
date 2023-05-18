@@ -1,26 +1,24 @@
 import time
 
 import pytest
-from selenium import webdriver
-from pageObjects.login_page import LoginPage
+
 from pageObjects.home_page import HomePage
-from utilities.read_properties import ReadConfig
+from pageObjects.login_page import LoginPage
 from utilities.custom_logger import LogGen
 from utilities import XLUtils
 import time
 
 
+@pytest.mark.regression
+@pytest.mark.usefixtures("setup")
 class Test_002_DDT_Login:
-    baseURL = ReadConfig.getApplicationURL()
     path = ".//TestData/logindata.xlsx"
 
     logger = LogGen.loggen()
 
-    def test_login_ddt(self, setup):
+    def test_login_ddt(self):
         self.logger.info("*********** Test_002_DDT_Login ***************")
         self.logger.info("*********** Verifying login DDT test **************")
-        self.driver = setup
-        self.driver.get(self.baseURL)
 
         self.rows = XLUtils.get_row_count(self.path, 'Sheet1')
 

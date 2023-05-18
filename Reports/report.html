@@ -253,9 +253,12 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 16-May-2023 at 16:53:32 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 18-May-2023 at 18:44:46 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
+      <tr>
+        <td>JAVA_HOME</td>
+        <td>C:\Program Files\Java\jdk-19</td></tr>
       <tr>
         <td>Packages</td>
         <td>{"pluggy": "1.0.0", "pytest": "7.3.1"}</td></tr>
@@ -263,14 +266,17 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Platform</td>
         <td>Windows-10-10.0.19045-SP0</td></tr>
       <tr>
+        <td>Plugins</td>
+        <td>{"allure-pytest": "2.13.2", "html": "3.2.0", "metadata": "2.0.4", "xdist": "3.3.0"}</td></tr>
+      <tr>
         <td>Project Name</td>
-        <td>SuperPharm</td></tr>
+        <td>SauceDemo</td></tr>
       <tr>
         <td>Python</td>
         <td>3.11.2</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 39.66 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>2 tests ran in 46.69 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -284,16 +290,29 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
-          <td class="col-duration">36.51</td>
+          <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
+          <td class="col-duration">7.72</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">[gw0] win32 -- Python 3.11.2 C:\Users\Limi\PycharmProjects\pythonBaseFramework\venv\Scripts\python.exe<br/>[gw0] win32 -- Python 3.11.2 C:\Users\Limi\PycharmProjects\pythonBaseFramework\venv\Scripts\python.exe[gw0] win32 -- Python 3.11.2 C:\Users\Limi\PycharmProjects\pythonBaseFramework\venv\Scripts\python.exe[gw0] win32 -- Python 3.11.2 C:\Users\Limi\PycharmProjects\pythonBaseFramework\venv\Scripts\python.exe<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     selenium.webdriver.common.selenium_manager:selenium_manager.py:73 Applicable driver not found; attempting to install with Selenium Manager (Beta)<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:18 *********** Test_001_Login **************
+INFO     root:test_login.py:19 *********** Verifying Home Page Title **************
+INFO     root:test_login.py:25 *********** home page title test is passed **************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
+          <td class="col-duration">38.63</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
 INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:37 ********** Entering username standard_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:37 ********** Entering username locked_out_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:37 ********** Entering username problem_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:37 ********** Entering username fdafasdfa and passworddasdaew**********
-INFO     root:test_login_ddt.py:37 ********** Entering username performance_glitch_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:60 ********** test_login PASS **********<br/></div></td></tr></tbody></table></body></html>
+INFO     root:test_login_ddt.py:35 ********** Entering username standard_user and passwordsecret_sauce**********
+INFO     root:test_login_ddt.py:35 ********** Entering username locked_out_user and passwordsecret_sauce**********
+INFO     root:test_login_ddt.py:35 ********** Entering username problem_user and passwordsecret_sauce**********
+INFO     root:test_login_ddt.py:35 ********** Entering username fdafasdfa and passworddasdaew**********
+INFO     root:test_login_ddt.py:35 ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+INFO     root:test_login_ddt.py:58 ********** test_login PASS **********<br/></div></td></tr></tbody></table></body></html>
