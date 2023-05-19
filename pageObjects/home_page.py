@@ -10,14 +10,17 @@ class HomePage(BasePage):
     # Locators
     button_shoppingcart_id = "shopping_cart_container"
     field_inventory_items_class = "inventory_item"
-    button_add_to_cart_xpath = "add-to-cart-sauce-labs-backpack"
+    button_add_to_cart_xpath = "//*[contains(@id, 'add-to-cart-')]"
+    button_remove_from_cart_xpath = "//*[contains(@id, 'add-to-cart-')]"
     button_burger_menu_button_css_selector = "#react-burger-menu-btn"
+    icon_shopping_cart_number_css_selector = ".shopping_cart_badge"
     button_logout_id = "logout_sidebar_link"
 
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
 
+    # Basic Elements
     def get_shoppingcart_button(self):
         return self.driver.find_element(By.ID, self.button_shoppingcart_id)
 
@@ -27,6 +30,16 @@ class HomePage(BasePage):
     def get_logout_button(self):
         return self.driver.find_element(By.ID, self.button_logout_id)
 
+    def get_shopping_cart_icon(self):
+        return self.driver.find_element(By.CSS_SELECTOR, self.icon_shopping_cart_number_css_selector)
+
+    def get_shopping_item_list(self):
+        return self.driver.find_elements(By.CLASS_NAME, self.field_inventory_items_class)
+
+    def get_item_count_in_cart(self):
+        return int(self.get_shopping_cart_icon().text)
+
+    # Page Functions
     def click_burger_menu(self):
         WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable(self.get_burger_menu())).click()
 
@@ -35,6 +48,9 @@ class HomePage(BasePage):
         WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable(logout_button))
         logout_button.click()
 
+    def add_item_to_cart(self, item_index):
+        item = self.get_shopping_item_list()[item_index]
+        item.find_element(By.XPATH, self.button_add_to_cart_xpath).click()
     def perform_logout_operation(self):
         self.click_burger_menu()
         self.click_logout_button()

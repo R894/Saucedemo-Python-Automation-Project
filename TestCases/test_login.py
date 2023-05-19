@@ -7,8 +7,6 @@ from utilities.custom_logger import LogGen
 
 @pytest.mark.usefixtures("setup")
 class Test_001_Login:
-    username = ReadConfig.getUsername()
-    password = ReadConfig.getPassword()
 
     logger = LogGen.loggen()
 

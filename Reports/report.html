@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>Automation Report</h1>
-    <p>Report generated on 19-May-2023 at 20:30:48 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 20-May-2023 at 00:49:59 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -272,8 +272,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Python</td>
         <td>3.11.2</td></tr></table>
     <h2>Summary</h2>
-    <p>6 tests ran in 41.21 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">5 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 6.07 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -284,76 +284,13 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="failed results-table-row">
-        <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
-          <td class="col-duration">5.44</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div><div><img src ="screenshots/test_login.py_Test_001_Login_test_homePageTitle.png" alt="screenshot" style="width:300px;height=200px"onclick="window.open(this.src)" align="right"/></div></div>
-            <div class="log">self = &lt;TestCases.test_login.Test_001_Login object at 0x000002585EB2B190&gt;<br/><br/>    @pytest.mark.regression<br/>    def test_homePageTitle(self):<br/>    <br/>        self.logger.info(&quot;*********** Test_001_Login **************&quot;)<br/>        self.logger.info(&quot;*********** Verifying Home Page Title **************&quot;)<br/>        time.sleep(2)<br/>        act_title = self.driver.title<br/>&gt;       assert act_title == &quot;Swag Labse&quot;<br/><span class="error">E       AssertionError: assert &#x27;Swag Labs&#x27; == &#x27;Swag Labse&#x27;</span><br/><span class="error">E         - Swag Labse</span><br/><span class="error">E         ?          -</span><br/><span class="error">E         + Swag Labs</span><br/><br/>TestCases\test_login.py:22: AssertionError<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
-INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:18 *********** Test_001_Login **************
-INFO     root:test_login.py:19 *********** Verifying Home Page Title **************<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-secret_sauce-pass]</td>
-          <td class="col-duration">8.99</td>
+          <td class="col-name">test_add_to_cart.py::Test_AddToCart::test_001_add_to_cart</td>
+          <td class="col-duration">6.03</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
-INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:22 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:23 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:29 ********** Entering username standard_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:36 ********** standard_usersecret_sauce pass *********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[locked_out_user-secret_sauce-fail]</td>
-          <td class="col-duration">5.29</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:22 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:23 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:29 ********** Entering username locked_out_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:45 ********** locked_out_usersecret_sauce pass *********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[problem_user-secret_sauce-pass]</td>
-          <td class="col-duration">5.28</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:22 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:23 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:29 ********** Entering username problem_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:36 ********** problem_usersecret_sauce pass *********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[fdafasdfa-dasdaew-fail]</td>
-          <td class="col-duration">5.26</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:22 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:23 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:29 ********** Entering username fdafasdfa and passworddasdaew**********
-INFO     root:test_login_ddt.py:45 ********** fdafasdfadasdaew pass *********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[performance_glitch_user-secret_sauce-pass]</td>
-          <td class="col-duration">10.30</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:22 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:23 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:29 ********** Entering username performance_glitch_user and passwordsecret_sauce**********
-INFO     root:test_login_ddt.py:36 ********** performance_glitch_usersecret_sauce pass *********<br/></div></td></tr></tbody></table></body></html>
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/></div></td></tr></tbody></table></body></html>
