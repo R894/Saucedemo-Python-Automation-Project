@@ -16,11 +16,9 @@ class Test_002_DDT_Login:
 
     logger = LogGen.loggen()
 
-    # @data(*XLUtils.get_rows_as_list(".//TestData//logindata.xlsx", "Sheet1"))
-    # @unpack
     @pytest.mark.parametrize('user, password, exp', XLUtils.get_rows_as_list(".//TestData//logindata.xlsx", "Sheet1"))
     def test_login_ddt(self, user, password, exp):
-
+        self.driver.get(self.base_url)
         self.logger.info("*********** Test_002_DDT_Login ***************")
         self.logger.info("*********** Verifying login DDT test **************")
 

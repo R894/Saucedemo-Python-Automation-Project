@@ -13,6 +13,7 @@ class HomePage(BasePage):
     button_add_to_cart_xpath = "add-to-cart-sauce-labs-backpack"
     button_burger_menu_button_css_selector = "#react-burger-menu-btn"
     button_logout_id = "logout_sidebar_link"
+
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver

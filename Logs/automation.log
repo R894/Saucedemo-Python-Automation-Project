@@ -1351,3 +1351,1855 @@
 2023-05-19 00:51:06,052 - root - INFO - *********** Verifying login DDT test **************
 2023-05-19 00:51:06,056 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
 2023-05-19 00:51:06,056 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:15:01,449 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:15:01,449 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:15:02,201 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:15:02,201 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:15:07,174 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:15:07,174 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:15:07,174 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:15:07,174 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:15:09,183 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:15:09,183 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:15:11,612 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:15:11,612 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:15:12,081 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:15:12,081 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:15:15,109 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:15,109 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:15,110 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:15,110 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:15,118 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:15:15,118 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:15:15,454 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:15:15,454 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:15:21,333 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:21,333 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:21,333 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:21,333 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:21,338 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:15:21,338 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:15:21,559 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:15:21,559 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:15:26,561 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:26,561 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:26,561 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:26,561 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:26,566 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:15:26,566 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:15:26,800 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:15:26,800 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:15:31,803 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:31,803 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:31,803 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:31,803 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:31,808 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:15:31,808 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:15:31,882 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:31,882 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:15:31,882 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:31,882 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:15:31,888 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:15:31,888 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:16:11,139 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:16:11,139 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:16:11,666 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:16:11,666 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:16:14,587 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:16:14,587 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:16:14,587 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:16:14,587 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:16:16,594 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:16:16,594 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:16:18,721 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:16:18,721 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:16:19,255 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:16:19,255 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:16:22,294 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:22,294 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:22,294 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:22,294 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:22,300 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:16:22,300 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:16:22,604 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:16:22,604 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:16:28,412 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:28,412 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:28,413 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:28,413 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:28,418 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:16:28,418 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:16:28,639 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:16:28,639 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:16:33,641 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:33,641 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:33,641 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:33,641 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:33,647 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:16:33,647 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:16:33,877 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:16:33,877 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:16:38,880 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:38,880 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:38,880 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:38,880 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:38,885 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:16:38,885 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:16:39,500 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:39,500 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:16:39,500 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:39,500 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:16:39,505 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:16:39,505 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:18:37,905 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:18:37,905 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:18:38,570 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:18:38,570 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:18:41,578 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:18:41,578 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:18:41,578 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:18:41,578 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:18:43,596 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:18:43,596 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:18:45,781 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:18:45,781 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:18:46,311 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:18:46,311 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:20:01,197 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:20:01,197 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:20:01,668 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:20:01,668 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:20:04,946 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:20:04,946 - root - INFO - *********** Test_001_Login **************
+2023-05-19 14:20:04,946 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:20:04,946 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 14:20:06,953 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:20:06,953 - root - INFO - *********** home page title test is passed **************
+2023-05-19 14:20:10,617 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:20:10,617 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 14:20:11,101 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:20:11,101 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 14:20:14,191 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:14,191 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:14,191 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:14,191 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:14,196 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:20:14,196 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 14:20:14,512 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:20:14,512 - root - ERROR - ********** standard_usersecret_sauce pass *********
+2023-05-19 14:20:20,364 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:20,364 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:20,364 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:20,364 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:20,371 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:20:20,371 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 14:20:20,592 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:20:20,592 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 14:20:25,632 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:25,632 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:25,633 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:25,633 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:25,641 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:20:25,641 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 14:20:25,881 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:20:25,881 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 14:20:30,930 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:30,930 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:30,930 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:30,930 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:30,938 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:20:30,938 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 14:20:31,130 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 14:20:31,130 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 14:20:36,166 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:36,166 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 14:20:36,166 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:36,166 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 14:20:36,173 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:20:36,173 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 14:20:41,413 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 14:20:41,413 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 15:37:13,462 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:37:13,462 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:37:14,586 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:37:14,586 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:37:18,137 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:37:18,137 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:37:18,137 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:37:18,137 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:37:20,144 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:37:20,144 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:37:57,262 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:37:57,262 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:37:57,823 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:37:57,823 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:38:00,829 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:38:00,829 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:38:00,829 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:38:00,829 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:38:02,837 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:38:02,837 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:43:37,493 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:43:37,493 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:43:37,996 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:43:37,996 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:43:41,419 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:43:41,419 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:43:41,420 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:43:41,420 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:43:43,426 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:43:43,426 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:44:06,026 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:44:06,026 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:44:06,500 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:44:06,500 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:44:09,565 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:44:09,565 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:44:09,565 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:44:09,565 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:44:11,571 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:44:11,571 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:44:13,829 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:44:13,829 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:44:14,282 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:44:14,282 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:44:17,338 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:17,338 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:17,338 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:17,338 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:17,347 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 15:44:17,347 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 15:44:17,655 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 15:44:17,655 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 15:44:22,718 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:22,718 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:22,718 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:22,718 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:22,723 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 15:44:22,723 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 15:44:22,944 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 15:44:22,944 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 15:44:27,984 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:27,984 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:27,984 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:27,984 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:27,987 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 15:44:27,987 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 15:44:28,221 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 15:44:28,221 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 15:44:33,261 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:33,261 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:33,261 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:33,261 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:33,266 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 15:44:33,266 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 15:44:33,463 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 15:44:33,463 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 15:44:38,501 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:38,501 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 15:44:38,501 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:38,501 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 15:44:38,505 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 15:44:38,505 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 15:44:43,746 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 15:44:43,746 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 15:48:31,780 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:48:31,780 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:48:32,379 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:48:32,379 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:48:35,364 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:48:35,364 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:48:35,364 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:48:35,364 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:48:37,371 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:48:37,371 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:52:11,163 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:52:11,163 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:52:11,643 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:52:11,643 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:52:14,557 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:52:14,557 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:52:14,557 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:52:14,557 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:52:16,560 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:52:16,560 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:54:24,140 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:54:24,140 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 15:54:24,624 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:54:24,624 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 15:54:27,705 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:54:27,705 - root - INFO - *********** Test_001_Login **************
+2023-05-19 15:54:27,706 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:54:27,706 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 15:54:29,712 - root - ERROR - *********** home page title test failed **************
+2023-05-19 15:54:29,712 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:04:49,052 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:04:49,052 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:04:49,527 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:04:49,527 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:04:52,548 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:04:52,548 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:04:52,548 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:04:52,548 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:04:54,555 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:04:54,555 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:05:36,943 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:05:36,943 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:05:37,404 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:05:37,404 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:05:40,390 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:05:40,390 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:05:40,390 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:05:40,390 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:05:42,397 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:05:42,397 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:07:52,367 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:07:52,367 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:07:52,843 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:07:52,843 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:07:55,814 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:07:55,814 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:07:55,814 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:07:55,814 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:07:57,821 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:07:57,821 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:10:02,077 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:10:02,077 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:10:02,541 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:10:02,541 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:10:05,596 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:10:05,596 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:10:05,596 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:10:05,596 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:10:07,603 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:10:07,603 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:13:00,438 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:13:00,438 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:13:00,909 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:13:00,909 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:13:04,366 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:13:04,366 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:13:04,366 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:13:04,366 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:13:06,373 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:13:06,373 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:26:18,196 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:26:18,196 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:26:18,677 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:26:18,677 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:26:22,149 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:26:22,149 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:26:22,149 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:26:22,149 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:26:24,156 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:26:24,156 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:26:24,568 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:26:24,568 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:26:25,034 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:26:25,034 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:26:28,138 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:28,138 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:28,139 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:28,139 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:28,362 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 16:26:28,362 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 16:26:28,758 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 16:26:28,758 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 16:26:33,823 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:33,823 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:33,823 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:33,823 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:33,829 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 16:26:33,829 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 16:26:34,054 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 16:26:34,054 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 16:26:39,093 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:39,093 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:39,093 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:39,093 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:39,100 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 16:26:39,100 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 16:26:39,310 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 16:26:39,310 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 16:26:44,353 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:44,353 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:44,353 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:44,353 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:44,357 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 16:26:44,357 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 16:26:44,540 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 16:26:44,540 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 16:26:49,577 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:49,577 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:26:49,578 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:49,578 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:26:49,585 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 16:26:49,585 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 16:26:54,805 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 16:26:54,805 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 16:29:08,491 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:29:08,491 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:29:08,951 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:29:08,951 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:29:12,035 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:29:12,035 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:29:12,035 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:29:12,035 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:29:14,041 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:29:14,041 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:29:14,318 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:29:14,318 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:29:14,795 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:29:14,795 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:29:17,767 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:17,767 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:17,767 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:17,767 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:17,775 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 16:29:17,775 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 16:29:18,107 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 16:29:18,107 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 16:29:23,186 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:23,186 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:23,186 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:23,186 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:23,192 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 16:29:23,192 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 16:29:23,407 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 16:29:23,407 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 16:29:28,443 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:28,443 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:28,443 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:28,443 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:28,448 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 16:29:28,448 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 16:29:28,667 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 16:29:28,667 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 16:29:33,710 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:33,710 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:33,710 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:33,710 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:33,716 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 16:29:33,716 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 16:29:33,930 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 16:29:33,930 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 16:29:38,968 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:38,968 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 16:29:38,969 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:38,969 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 16:29:38,972 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 16:29:38,972 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 16:29:44,212 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 16:29:44,212 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 16:30:42,486 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:30:42,486 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:30:42,957 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:30:42,957 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:30:45,920 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:30:45,920 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:30:45,920 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:30:45,920 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:30:47,926 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:30:47,926 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:32:40,016 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:32:40,016 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:32:40,475 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:32:40,475 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:32:43,436 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:32:43,436 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:32:43,436 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:32:43,436 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:32:45,443 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:32:45,443 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:35:42,461 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:35:42,461 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:35:42,939 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:35:42,939 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:35:46,032 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:35:46,032 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:35:46,032 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:35:46,032 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:35:48,038 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:35:48,038 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:36:19,825 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:36:19,825 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:36:20,284 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:36:20,284 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:36:23,214 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:36:23,214 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:36:23,214 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:36:23,214 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:36:25,220 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:36:25,220 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:36:39,187 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:36:39,187 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:36:39,653 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:36:39,653 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:36:42,610 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:36:42,610 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:36:42,610 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:36:42,610 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:36:44,617 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:36:44,617 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:37:02,133 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:37:02,133 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:37:02,587 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:37:02,587 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:37:05,620 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:37:05,620 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:37:05,620 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:37:05,620 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:37:07,626 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:37:07,626 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:39:42,863 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:39:42,863 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:39:43,355 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:39:43,355 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:39:46,457 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:39:46,457 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:39:46,458 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:39:46,458 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:39:48,462 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:39:48,462 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:42:36,145 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:42:36,145 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:42:36,598 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:42:36,598 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:42:39,486 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:42:39,486 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:42:39,487 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:42:39,487 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:42:41,494 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:42:41,494 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:43:06,392 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:43:06,392 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:43:06,899 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:43:06,899 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:43:09,906 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:43:09,906 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:43:09,907 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:43:09,907 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:43:11,913 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:43:11,913 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:55:49,058 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:55:49,058 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:55:49,536 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:55:49,536 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:55:52,881 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:55:52,881 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:55:52,881 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:55:52,881 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:55:54,887 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:55:54,887 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:56:39,612 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:56:39,612 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 16:56:40,070 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:56:40,070 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 16:56:43,186 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:56:43,186 - root - INFO - *********** Test_001_Login **************
+2023-05-19 16:56:43,186 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:56:43,186 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 16:56:45,192 - root - ERROR - *********** home page title test failed **************
+2023-05-19 16:56:45,192 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:06:56,714 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:06:56,714 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:06:57,190 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:06:57,190 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:07:00,553 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:07:00,553 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:07:00,553 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:07:00,553 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:07:02,558 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:07:02,558 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:10:01,863 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:10:01,863 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:10:02,326 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:10:02,326 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:10:05,305 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:10:05,305 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:10:05,305 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:10:05,305 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:10:07,311 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:10:07,311 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:10:56,510 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:10:56,510 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:10:56,991 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:10:56,991 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:10:59,982 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:10:59,982 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:10:59,982 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:10:59,982 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:11:02,184 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:02,184 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:02,660 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:02,660 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:05,904 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:05,904 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:05,904 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:05,904 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:05,912 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:11:05,912 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:11:06,241 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:11:06,241 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:11:24,873 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:24,873 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:25,351 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:25,351 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:28,273 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:11:28,273 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:11:28,273 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:11:28,273 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:11:30,358 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:11:30,358 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:11:30,573 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:30,573 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:11:31,173 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:31,173 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:11:34,223 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:34,223 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:34,223 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:34,223 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:34,232 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:11:34,232 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:11:34,536 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:11:34,536 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:11:39,601 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:39,601 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:39,602 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:39,602 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:39,608 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 17:11:39,608 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 17:11:39,806 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 17:11:39,806 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 17:11:44,847 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:44,847 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:44,847 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:44,847 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:44,851 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 17:11:44,851 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 17:11:45,091 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 17:11:45,091 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 17:11:50,135 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:50,135 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:50,135 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:50,135 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:50,139 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 17:11:50,139 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 17:11:50,312 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 17:11:50,312 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 17:11:55,363 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:55,363 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:11:55,364 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:55,364 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:11:55,371 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 17:11:55,371 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 17:12:00,608 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 17:12:00,608 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 17:12:42,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:12:42,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:12:43,367 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:12:43,367 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:12:46,347 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:12:46,347 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:12:46,347 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:12:46,347 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:12:48,354 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:12:48,354 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:17:47,754 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:17:47,754 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:17:48,212 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:17:48,212 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:17:51,244 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:17:51,244 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:17:51,244 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:17:51,244 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:17:53,250 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:17:53,250 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:18:23,201 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:18:23,201 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:18:23,676 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:18:23,676 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:18:26,581 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:18:26,581 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:18:26,581 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:18:26,581 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:18:28,587 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:18:28,587 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:18:49,521 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:18:49,521 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:18:49,977 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:18:49,977 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:18:52,872 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:18:52,872 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:18:52,872 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:18:52,872 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:18:54,880 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:18:54,880 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:24:20,584 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:24:20,584 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:24:21,042 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:24:21,042 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:24:23,996 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:24:23,996 - root - INFO - *********** Test_001_Login **************
+2023-05-19 17:24:23,996 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:24:23,996 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 17:24:26,002 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:24:26,002 - root - ERROR - *********** home page title test failed **************
+2023-05-19 17:24:26,257 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:24:26,257 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 17:24:26,758 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:24:26,758 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 17:24:30,026 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:30,026 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:30,026 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:30,026 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:30,032 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:24:30,032 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 17:24:30,328 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:24:30,328 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 17:24:35,397 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:35,397 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:35,397 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:35,397 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:35,402 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 17:24:35,402 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 17:24:35,600 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 17:24:35,600 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 17:24:40,640 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:40,640 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:40,641 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:40,641 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:40,648 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 17:24:40,648 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 17:24:40,857 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 17:24:40,857 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 17:24:45,898 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:45,898 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:45,898 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:45,898 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:45,902 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 17:24:45,902 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 17:24:46,085 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 17:24:46,085 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 17:24:51,126 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:51,126 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 17:24:51,126 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:51,126 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 17:24:51,131 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 17:24:51,131 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 17:24:56,345 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 17:24:56,345 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:33:56,855 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:33:56,855 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:33:57,395 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:33:57,395 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:01,199 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:01,199 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:01,711 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:01,711 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:25,152 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:25,152 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:25,658 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:25,658 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:28,989 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:28,989 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:29,472 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:29,472 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:53,828 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:53,828 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:34:54,292 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:54,292 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:34:57,414 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:34:57,414 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:34:57,414 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:34:57,414 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:34:59,420 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:34:59,420 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:36:02,264 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:36:02,264 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:36:02,746 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:36:02,746 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:36:07,819 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:36:07,819 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:36:07,819 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:36:07,819 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:36:13,911 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:36:13,911 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:36:17,986 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730F790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:36:17,986 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730F790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:36:22,065 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730FD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:36:22,065 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E25730FD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0a4f7703318bc3e84a92fbb91ff34e8/title
+2023-05-19 19:38:12,613 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:38:12,613 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:38:13,106 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:38:13,106 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:38:16,205 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:38:16,205 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:38:16,205 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:38:16,205 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:38:18,212 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:38:18,212 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:38:18,474 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:38:18,474 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:38:19,017 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:38:19,017 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:38:22,104 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:22,104 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:22,105 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:22,105 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:22,114 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:38:22,114 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:38:22,455 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:38:22,455 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:38:27,528 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:27,528 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:27,529 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:27,529 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:27,534 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:38:27,534 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:38:27,758 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:38:27,758 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:38:32,798 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:32,798 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:32,798 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:32,798 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:32,803 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:38:32,803 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:38:33,015 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:38:33,015 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:38:38,057 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:38,057 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:38,057 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:38,057 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:38,062 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:38:38,062 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:38:38,231 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:38:38,231 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:38:43,259 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:43,259 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:38:43,259 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:43,259 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:38:43,266 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:38:43,266 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:38:48,471 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:38:48,471 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:46:31,881 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:46:31,881 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:46:32,387 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:46:32,387 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:46:35,455 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:46:35,455 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:46:35,455 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:46:35,455 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:46:37,461 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:46:37,461 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:46:37,741 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:46:37,741 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:46:38,208 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:46:38,208 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:46:41,307 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:41,307 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:41,307 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:41,307 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:41,312 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:46:41,312 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:46:41,595 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:46:41,595 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:46:46,681 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:46,681 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:46,681 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:46,681 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:46,685 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:46:46,685 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:46:46,878 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:46:46,878 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:46:51,921 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:51,921 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:51,921 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:51,921 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:51,928 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:46:51,928 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:46:52,161 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:46:52,161 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:46:57,205 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:57,205 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:46:57,205 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:57,205 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:46:57,209 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:46:57,209 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:46:57,400 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:46:57,400 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:47:02,436 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:47:02,436 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:47:02,436 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:47:02,436 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:47:02,444 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:47:02,444 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:47:07,657 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:47:07,657 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:50:18,009 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:50:18,009 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:50:18,574 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:50:18,574 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:50:21,606 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:50:21,606 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:50:21,606 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:50:21,606 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:50:23,615 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:50:23,615 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:50:23,868 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:50:23,868 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:50:24,345 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:50:24,345 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:50:27,465 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:27,465 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:27,466 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:27,466 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:27,473 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:50:27,473 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:50:27,784 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:50:27,784 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:50:32,856 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:32,856 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:32,856 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:32,856 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:32,860 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:50:32,860 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:50:33,089 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:50:33,089 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:50:38,131 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:38,131 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:38,131 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:38,131 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:38,137 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:50:38,137 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:50:38,372 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:50:38,372 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:50:43,419 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:43,419 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:43,419 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:43,419 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:43,425 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:50:43,425 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:50:43,631 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:50:43,631 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:50:48,671 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:48,671 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:50:48,671 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:48,671 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:50:48,675 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:50:48,675 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:50:53,920 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:50:53,920 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:51:39,674 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:51:39,674 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:51:40,144 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:51:40,144 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:51:43,154 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:51:43,154 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:51:43,154 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:51:43,154 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:51:45,160 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:51:45,160 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:51:45,405 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:51:45,405 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:51:45,870 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:51:45,870 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:51:48,969 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:48,969 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:48,970 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:48,970 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:48,978 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:51:48,978 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:51:49,303 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:51:49,303 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:51:54,368 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:54,368 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:54,368 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:54,368 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:54,375 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:51:54,375 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:51:54,609 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:51:54,609 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:51:59,650 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:59,650 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:51:59,650 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:59,650 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:51:59,654 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:51:59,654 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:51:59,898 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:51:59,898 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:52:04,942 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:52:04,942 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:52:04,943 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:52:04,943 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:52:04,949 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:52:04,949 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:52:05,148 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:52:05,148 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:52:10,188 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:52:10,188 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:52:10,188 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:52:10,188 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:52:10,197 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:52:10,197 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:52:15,441 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:52:15,441 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:54:00,390 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:54:00,390 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:54:00,870 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:54:00,870 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:54:03,816 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:54:03,816 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:54:03,816 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:54:03,816 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:54:05,821 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:54:05,821 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:54:06,080 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:54:06,080 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:54:06,562 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:54:06,562 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:54:09,559 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:09,559 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:09,559 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:09,559 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:09,567 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:54:09,567 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:54:09,870 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:54:09,870 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:54:14,937 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:14,937 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:14,937 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:14,937 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:14,944 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:54:14,944 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:54:15,170 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:54:15,170 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:54:20,212 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:20,212 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:20,212 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:20,212 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:20,218 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:54:20,218 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:54:20,463 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:54:20,463 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:54:25,507 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:25,507 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:25,508 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:25,508 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:25,513 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:54:25,513 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:54:25,723 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:54:25,723 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:54:30,761 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:30,761 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:54:30,761 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:30,761 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:54:30,771 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:54:30,771 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:54:36,024 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:54:36,024 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:57:47,727 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:57:47,727 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:57:48,217 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:57:48,217 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:57:51,267 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:57:51,267 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:57:51,267 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:57:51,267 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:57:53,274 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:57:53,274 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:57:53,528 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:57:53,528 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:57:54,050 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:57:54,050 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:57:57,246 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:57:57,246 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:57:57,247 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:57:57,247 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:57:57,252 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:57:57,252 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:57:57,544 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:57:57,544 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:58:02,608 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:02,608 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:02,609 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:02,609 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:02,615 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:58:02,615 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:58:02,842 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:58:02,842 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:58:07,884 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:07,884 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:07,884 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:07,884 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:07,889 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:58:07,889 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:58:08,137 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:58:08,137 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:58:13,182 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:13,182 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:13,182 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:13,182 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:13,186 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:58:13,186 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:58:13,388 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:58:13,388 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:58:18,432 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:18,432 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:58:18,432 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:18,432 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:58:18,438 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:58:18,438 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:58:23,680 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:58:23,680 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:59:16,937 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:59:16,937 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:59:17,405 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:59:17,405 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:59:20,368 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:59:20,368 - root - INFO - *********** Test_001_Login **************
+2023-05-19 19:59:20,368 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:59:20,368 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 19:59:22,374 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:59:22,374 - root - ERROR - *********** home page title test failed **************
+2023-05-19 19:59:22,637 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:59:22,637 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 19:59:23,119 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:59:23,119 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 19:59:26,137 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:26,137 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:26,138 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:26,138 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:26,145 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:59:26,145 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 19:59:26,461 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:59:26,461 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 19:59:31,522 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:31,522 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:31,522 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:31,522 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:31,527 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:59:31,527 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 19:59:31,754 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:59:31,754 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 19:59:36,816 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:36,816 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:36,816 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:36,816 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:36,828 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:59:36,828 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 19:59:37,146 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:59:37,146 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 19:59:42,186 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:42,186 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:42,187 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:42,187 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:42,190 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:59:42,190 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 19:59:42,376 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:59:42,376 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 19:59:47,420 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:47,420 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 19:59:47,420 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:47,420 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 19:59:47,427 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:59:47,427 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 19:59:52,641 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 19:59:52,641 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:01:37,754 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:01:37,754 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:01:38,224 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:01:38,224 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:01:41,127 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:01:41,127 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:01:41,127 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:01:41,127 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:01:43,135 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:01:43,135 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:01:43,393 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:01:43,393 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:01:43,853 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:01:43,853 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:01:46,987 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:46,987 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:46,988 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:46,988 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:46,995 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:01:46,995 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:01:47,293 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:01:47,293 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:01:52,361 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:52,361 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:52,362 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:52,362 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:52,367 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:01:52,367 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:01:52,586 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:01:52,586 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:01:57,629 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:57,629 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:01:57,629 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:57,629 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:01:57,636 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:01:57,636 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:01:57,888 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:01:57,888 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:02:02,928 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:02:02,928 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:02:02,929 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:02:02,929 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:02:02,932 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:02:02,932 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:02:03,138 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:02:03,138 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:02:08,174 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:02:08,174 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:02:08,174 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:02:08,174 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:02:08,183 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:02:08,183 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:02:13,438 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:02:13,438 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:03:21,954 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:03:21,954 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:03:22,436 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:03:22,436 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:03:25,462 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:03:25,462 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:03:25,463 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:03:25,463 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:03:27,469 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:03:27,469 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:03:27,714 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:03:27,714 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:03:28,173 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:03:28,173 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:03:31,219 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:31,219 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:31,219 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:31,219 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:31,225 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:03:31,225 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:03:31,545 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:03:31,545 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:03:36,625 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:36,625 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:36,625 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:36,625 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:36,632 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:03:36,632 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:03:36,852 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:03:36,852 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:03:41,892 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:41,892 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:41,893 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:41,893 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:41,897 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:03:41,897 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:03:42,115 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:03:42,115 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:03:47,157 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:47,157 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:47,157 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:47,157 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:47,162 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:03:47,162 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:03:47,346 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:03:47,346 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:03:52,390 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:52,390 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:03:52,390 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:52,390 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:03:52,394 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:03:52,394 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:03:57,622 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:03:57,622 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:05:02,509 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:05:02,509 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:05:02,972 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:05:02,972 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:05:05,950 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:05:05,950 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:05:05,950 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:05:05,950 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:05:07,956 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:05:07,956 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:05:08,203 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:05:08,203 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:05:08,668 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:05:08,668 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:05:11,754 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:11,754 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:11,755 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:11,755 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:11,762 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:05:11,762 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:05:12,073 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:05:12,073 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:05:17,140 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:17,140 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:17,140 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:17,140 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:17,146 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:05:17,146 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:05:17,372 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:05:17,372 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:05:22,413 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:22,413 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:22,413 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:22,413 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:22,418 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:05:22,418 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:05:22,633 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:05:22,633 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:05:27,673 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:27,673 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:27,673 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:27,673 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:27,677 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:05:27,677 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:05:27,864 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:05:27,864 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:05:32,903 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:32,903 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:05:32,904 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:32,904 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:05:32,910 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:05:32,910 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:05:38,127 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:05:38,127 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:07:29,911 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:07:29,911 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:07:30,372 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:07:30,372 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:07:33,414 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:07:33,414 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:07:33,415 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:07:33,415 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:07:35,421 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:07:35,421 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:07:35,664 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:07:35,664 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:07:36,131 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:07:36,131 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:07:39,166 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:39,166 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:39,166 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:39,166 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:39,173 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:07:39,173 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:07:39,476 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:07:39,476 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:07:44,540 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:44,540 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:44,540 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:44,540 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:44,545 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:07:44,545 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:07:44,743 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:07:44,743 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:07:49,789 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:49,789 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:49,789 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:49,789 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:49,794 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:07:49,794 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:07:50,024 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:07:50,024 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:07:55,070 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:55,070 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:07:55,070 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:55,070 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:07:55,075 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:07:55,075 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:07:55,279 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:07:55,279 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:08:00,322 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:08:00,322 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:08:00,323 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:08:00,323 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:08:00,326 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:08:00,326 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:08:05,570 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:08:05,570 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:10:08,567 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:10:08,567 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:10:09,045 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:10:09,045 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:10:12,083 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:10:12,083 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:10:12,083 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:10:12,083 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:10:14,088 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:10:14,088 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:10:14,356 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:10:14,356 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:10:14,924 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:10:14,924 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:10:18,096 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:18,096 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:18,096 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:18,096 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:18,100 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:10:18,100 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:10:18,364 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:10:18,364 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:10:23,433 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:23,433 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:23,433 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:23,433 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:23,437 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:10:23,437 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:10:23,652 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:10:23,652 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:10:28,695 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:28,695 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:28,695 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:28,695 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:28,700 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:10:28,700 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:10:28,927 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:10:28,927 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:10:33,970 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:33,970 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:33,970 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:33,970 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:33,976 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:10:33,976 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:10:34,161 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:10:34,161 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:10:39,199 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:39,199 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:10:39,199 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:39,199 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:10:39,204 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:10:39,204 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:10:44,449 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:10:44,449 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:12:03,668 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:12:03,668 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:12:04,143 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:12:04,143 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:12:07,480 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:12:07,480 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:12:07,480 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:12:07,480 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:12:09,486 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:12:09,486 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:12:09,768 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:12:09,768 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:12:10,281 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:12:10,281 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:12:13,347 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:13,347 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:13,347 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:13,347 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:13,354 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:12:13,354 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:12:13,647 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:12:13,647 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:12:18,717 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:18,717 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:18,718 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:18,718 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:18,722 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:12:18,722 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:12:18,920 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:12:18,920 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:12:23,964 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:23,964 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:23,964 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:23,964 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:23,971 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:12:23,971 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:12:24,189 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:12:24,189 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:12:29,232 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:29,232 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:29,232 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:29,232 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:29,241 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:12:29,241 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:12:29,425 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:12:29,425 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:12:34,468 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:34,468 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:12:34,468 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:34,468 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:12:34,474 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:12:34,474 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:12:39,700 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:12:39,700 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:16:12,046 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:16:12,046 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:16:12,512 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:16:12,512 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:16:15,674 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:16:15,674 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:16:15,674 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:16:15,674 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:16:17,686 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:16:17,686 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:16:17,978 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:16:17,978 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:16:18,474 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:16:18,474 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:16:21,648 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:21,648 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:21,649 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:21,649 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:21,654 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:16:21,654 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:16:22,008 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:16:22,008 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:16:27,087 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:27,087 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:27,087 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:27,087 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:27,092 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:16:27,092 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:16:27,295 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:16:27,295 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:16:32,341 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:32,341 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:32,341 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:32,341 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:32,347 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:16:32,347 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:16:32,592 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:16:32,592 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:16:37,637 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:37,637 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:37,637 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:37,637 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:37,644 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:16:37,644 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:16:37,836 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:16:37,836 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:16:42,864 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:42,864 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:16:42,865 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:42,865 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:16:42,871 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:16:42,871 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:16:48,085 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:16:48,085 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:17:39,423 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:17:39,423 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:17:39,901 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:17:39,901 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:17:42,922 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:17:42,922 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:17:42,922 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:17:42,922 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:17:44,928 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:17:44,928 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:17:45,182 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:17:45,182 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:17:45,671 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:17:45,671 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:17:48,795 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:48,795 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:48,795 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:48,795 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:48,813 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:17:48,813 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:17:49,174 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:17:49,174 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:17:54,262 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:54,262 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:54,263 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:54,263 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:54,269 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:17:54,269 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:17:54,567 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:17:54,567 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:17:59,607 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:59,607 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:17:59,607 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:59,607 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:17:59,611 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:17:59,611 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:17:59,832 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:17:59,832 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:18:04,872 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:18:04,872 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:18:04,873 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:18:04,873 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:18:04,876 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:18:04,876 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:18:05,056 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:18:05,056 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:18:10,085 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:18:10,085 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:18:10,086 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:18:10,086 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:18:10,092 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:18:10,092 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:18:15,310 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:18:15,310 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:20:53,939 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:20:53,939 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:20:54,424 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:20:54,424 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:20:57,523 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:20:57,523 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:20:57,523 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:20:57,523 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:20:59,531 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:20:59,531 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:20:59,779 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:20:59,779 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:21:00,306 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:21:00,306 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:21:03,351 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:03,351 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:03,351 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:03,351 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:03,358 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:21:03,358 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:21:03,648 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:21:03,648 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:21:08,714 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:08,714 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:08,714 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:08,714 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:08,720 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:21:08,720 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:21:08,967 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:21:08,967 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:21:14,010 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:14,010 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:14,010 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:14,010 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:14,015 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:21:14,015 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:21:14,238 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:21:14,238 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:21:19,278 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:19,278 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:19,278 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:19,278 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:19,283 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:21:19,283 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:21:19,475 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:21:19,475 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:21:24,517 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:24,517 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:21:24,517 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:24,517 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:21:24,521 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:21:24,521 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:21:29,741 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:21:29,741 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:22:17,186 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:22:17,186 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:22:17,651 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:22:17,651 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:22:20,678 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:22:20,678 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:22:20,679 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:22:20,679 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:22:22,684 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:22:22,684 - root - ERROR - *********** home page title test failed **************
+2023-05-19 20:22:22,937 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:22:22,937 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:22:23,420 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:22:23,420 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:22:26,485 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:26,485 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:26,485 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:26,485 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:26,492 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:22:26,492 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:22:26,786 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:22:26,786 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:22:31,856 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:31,856 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:31,856 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:31,856 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:31,862 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:22:31,862 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:22:32,069 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:22:32,069 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:22:37,112 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:37,112 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:37,112 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:37,112 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:37,117 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:22:37,117 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:22:37,342 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:22:37,342 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:22:42,384 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:42,384 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:42,385 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:42,385 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:42,392 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:22:42,392 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:22:42,572 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:22:42,572 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:22:47,614 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:47,614 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:22:47,614 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:47,614 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:22:47,620 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:22:47,620 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:22:52,837 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:22:52,837 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:27:29,345 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:27:29,345 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:27:29,940 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:27:29,940 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:27:32,980 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:27:32,980 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:27:32,980 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:27:32,980 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:27:35,236 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:27:35,236 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:27:35,744 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:27:35,744 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:27:38,935 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:38,935 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:38,935 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:38,935 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:38,941 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:27:38,941 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:27:39,223 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:27:39,223 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:27:44,294 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:44,294 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:44,295 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:44,295 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:44,298 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:27:44,298 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:27:44,505 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:27:44,505 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:27:49,547 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:49,547 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:49,547 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:49,547 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:49,551 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:27:49,551 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:27:49,777 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:27:49,777 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:27:54,821 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:54,821 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:27:54,822 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:54,822 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:27:54,828 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:27:54,828 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:27:55,006 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:27:55,006 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:28:00,050 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:28:00,050 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:28:00,050 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:28:00,050 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:28:00,059 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:28:00,059 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:28:05,296 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:28:05,296 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:28:56,103 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:28:56,103 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:28:56,561 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:28:56,561 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:28:59,574 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:28:59,574 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:28:59,574 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:28:59,574 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:29:01,582 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:29:01,582 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:29:02,068 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:29:02,068 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:29:05,184 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:05,184 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:05,184 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:05,184 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:05,196 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:29:05,196 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:29:05,504 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:29:05,504 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:29:10,575 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:10,575 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:10,575 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:10,575 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:10,582 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:29:10,582 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:29:10,807 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:29:10,807 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:29:15,853 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:15,853 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:15,853 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:15,853 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:15,861 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:29:15,861 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:29:16,135 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:29:16,135 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:29:21,179 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:21,179 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:21,180 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:21,180 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:21,185 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:29:21,185 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:29:21,378 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:29:21,378 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:29:26,415 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:26,415 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:29:26,415 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:26,415 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:29:26,419 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:29:26,419 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:29:31,638 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:29:31,638 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:30:07,874 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:30:07,874 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:30:08,338 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:30:08,338 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:30:11,308 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:30:11,308 - root - INFO - *********** Test_001_Login **************
+2023-05-19 20:30:11,308 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:30:11,308 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-19 20:30:13,616 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:30:13,616 - WDM - INFO - ====== WebDriver manager ======
+2023-05-19 20:30:14,127 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:30:14,127 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-19 20:30:17,297 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:17,297 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:17,297 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:17,297 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:17,302 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:30:17,302 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-19 20:30:17,609 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:30:17,609 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-19 20:30:22,677 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:22,677 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:22,677 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:22,677 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:22,682 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:30:22,682 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-19 20:30:22,904 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:30:22,904 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-19 20:30:27,948 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:27,948 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:27,948 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:27,948 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:27,953 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:30:27,953 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-19 20:30:28,191 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:30:28,191 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-19 20:30:33,247 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:33,247 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:33,247 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:33,247 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:33,252 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:30:33,252 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-19 20:30:33,456 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:30:33,456 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-19 20:30:38,493 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:38,493 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-19 20:30:38,493 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:38,493 - root - INFO - *********** Verifying login DDT test **************
+2023-05-19 20:30:38,502 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:30:38,502 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-19 20:30:43,760 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-19 20:30:43,760 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
