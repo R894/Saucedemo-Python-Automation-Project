@@ -4,6 +4,8 @@ A simple test automation framework practice project
 
 The application under test (AUT) is https://www.saucedemo.com/
 
+Test case overview can be found here: https://docs.google.com/spreadsheets/d/1m7qit5PzoG5KQRc3ZHqtWiRHxr9UsRdbex_-BwNgmk8/edit?usp=sharing
+
 ## Quick Start
 * Clone Framework
 
