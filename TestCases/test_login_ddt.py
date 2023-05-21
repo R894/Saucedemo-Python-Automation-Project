@@ -17,6 +17,7 @@ class Test_002_DDT_Login:
     def test_login_ddt(self, user, password, exp):
 
         self.driver.get(self.base_url)
+
         self.logger.info("*********** Test_002_DDT_Login ***************")
         self.logger.info("*********** Verifying login DDT test **************")
 
@@ -24,32 +25,38 @@ class Test_002_DDT_Login:
         self.hp = HomePage(self.driver)
 
         current_url = self.driver.current_url
-        self.logger.info("********** Entering username " + user + " and password" + password + "**********")
-        self.lp.set_user_name(user)
 
-        self.logger.info("********** Checking if " + user + " in textbox" + " **********")
-        assert self.lp.get_username_textbox_text() == user
+        self.logger.info(f"********** Entering username {user} and password {password} **********")
+        if user is not None:
+            self.lp.set_user_name(user)
 
-        self.lp.set_password(password)
-        self.logger.info("********** Checking if password field stars equal stars entered" + " **********")
+        self.logger.info(f"********** Checking if {user} in textbox" + " **********")
+
+        if user is not None:
+            assert self.lp.get_username_textbox_text() == user
+        else:
+            assert self.lp.get_username_textbox_text() == ''
+
+        if password is not None:
+            self.lp.set_password(password)
         self.lp.click_login()
 
         # Asserts for a login that's expected to pass
         if exp == "pass":
             if current_url != self.driver.current_url:
-                self.logger.info("********** " + user + password + " pass *********")
+                self.logger.info(f"********** {user} {password} pass *********")
                 assert True
             else:
-                self.logger.error("********** " + user + password + " FAIL *********")
+                self.logger.error(f"********** {user} {password} FAIL *********")
                 self.hp.perform_logout_operation()
                 time.sleep(5)
                 assert False
         else:  # Asserts for a login that's expected to fail
             if current_url == self.driver.current_url:
                 assert True if self.lp.get_error_message_popup().is_displayed() else False
-                self.logger.info("********** " + user + password + " pass *********")
+                self.logger.info(f"********** {user} {password} pass *********")
             else:
-                self.logger.error("********** " + user + password + " FAIL *********")
+                self.logger.error(f"********** {user} {password} FAIL *********")
                 self.hp.perform_logout_operation()
                 time.sleep(5)
                 assert False

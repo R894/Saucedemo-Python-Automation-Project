@@ -3459,3 +3459,485 @@
 2023-05-20 19:57:25,567 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
 2023-05-20 19:59:20,652 - WDM - INFO - ====== WebDriver manager ======
 2023-05-20 19:59:21,110 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:06:16,949 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:06:17,712 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-05-21 14:06:18,411 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+2023-05-21 14:06:20,118 - WDM - INFO - Driver has been saved in cache [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63]
+2023-05-21 14:06:26,135 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:26,135 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:26,142 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-21 14:06:26,270 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:06:26,523 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:26,628 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-21 14:06:31,709 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:31,709 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:31,717 - root - INFO - ********** Entering username standard_user and passwordducks**********
+2023-05-21 14:06:31,802 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:06:31,883 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:31,945 - root - INFO - ********** standard_userducks pass *********
+2023-05-21 14:06:36,989 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:36,990 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:36,996 - root - INFO - ********** Entering username username and passwordpassword**********
+2023-05-21 14:06:37,071 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:06:37,160 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:37,219 - root - INFO - ********** usernamepassword pass *********
+2023-05-21 14:06:42,259 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:42,259 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:42,571 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:42,571 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:42,724 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:42,725 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:42,728 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-21 14:06:42,812 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:06:42,903 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:42,967 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-21 14:06:48,005 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:48,005 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:48,010 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-21 14:06:48,096 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:06:48,199 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:48,291 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-21 14:06:53,334 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:53,334 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:53,339 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-21 14:06:53,419 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:06:53,498 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:06:53,552 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-21 14:06:58,594 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:06:58,594 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:06:58,598 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-21 14:06:58,674 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:06:58,755 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:07:03,805 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-21 14:08:56,218 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:08:57,039 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:09:00,166 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:00,166 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:00,171 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-21 14:09:00,311 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:09:00,418 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:00,532 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-21 14:09:05,595 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:05,595 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:05,600 - root - INFO - ********** Entering username standard_user and passwordducks**********
+2023-05-21 14:09:05,689 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:09:05,790 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:05,853 - root - INFO - ********** standard_userducks pass *********
+2023-05-21 14:09:10,899 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:10,899 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:10,905 - root - INFO - ********** Entering username username and passwordpassword**********
+2023-05-21 14:09:10,985 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:09:11,081 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:11,139 - root - INFO - ********** usernamepassword pass *********
+2023-05-21 14:09:16,179 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:16,179 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:16,486 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:16,486 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:16,635 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:16,635 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:16,641 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-21 14:09:16,737 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:09:16,847 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:16,906 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-21 14:09:21,950 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:21,950 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:21,957 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-21 14:09:22,057 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:09:22,155 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:22,226 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-21 14:09:27,282 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:27,282 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:27,289 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-21 14:09:27,365 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:09:27,454 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:27,511 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-21 14:09:32,569 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:09:32,569 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:09:32,575 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-21 14:09:32,646 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:09:32,729 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:09:37,785 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-21 14:10:52,730 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:10:53,369 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:10:56,548 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:10:56,548 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:10:56,555 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-21 14:10:56,672 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:10:56,803 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:10:56,890 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-21 14:11:01,958 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:01,958 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:01,964 - root - INFO - ********** Entering username standard_user and passwordducks**********
+2023-05-21 14:11:02,064 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:11:02,145 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:02,206 - root - INFO - ********** standard_userducks pass *********
+2023-05-21 14:11:07,253 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:07,253 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:07,260 - root - INFO - ********** Entering username username and passwordpassword**********
+2023-05-21 14:11:07,355 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:11:07,443 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:07,504 - root - INFO - ********** usernamepassword pass *********
+2023-05-21 14:11:12,554 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:12,555 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:12,876 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:12,876 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:13,026 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:13,026 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:13,032 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-21 14:11:13,134 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:11:13,231 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:13,310 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-21 14:11:18,355 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:18,355 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:18,360 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-21 14:11:18,441 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:11:18,536 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:18,622 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-21 14:11:23,666 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:23,666 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:23,671 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-21 14:11:23,740 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:11:23,830 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:23,882 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-21 14:11:28,932 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:11:28,933 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:11:28,941 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-21 14:11:29,022 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:11:29,120 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:11:34,176 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-21 14:16:09,653 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:16:10,508 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:16:13,702 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:13,702 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:13,707 - root - INFO - ********** Entering username standard_user and passwordsecret_sauce**********
+2023-05-21 14:16:13,843 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:16:13,954 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:14,055 - root - INFO - ********** standard_usersecret_sauce pass *********
+2023-05-21 14:16:19,125 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:19,125 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:19,129 - root - INFO - ********** Entering username standard_user and passwordducks**********
+2023-05-21 14:16:19,213 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:16:19,296 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:19,359 - root - INFO - ********** standard_userducks pass *********
+2023-05-21 14:16:24,402 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:24,402 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:24,408 - root - INFO - ********** Entering username username and passwordpassword**********
+2023-05-21 14:16:24,485 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:16:24,576 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:24,635 - root - INFO - ********** usernamepassword pass *********
+2023-05-21 14:16:29,678 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:29,679 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:29,684 - root - INFO - ********** Entering username None and password1234**********
+2023-05-21 14:16:30,030 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:30,031 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:30,036 - root - INFO - ********** Entering username standard_user and passwordNone**********
+2023-05-21 14:16:30,117 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:16:30,130 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:30,312 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:30,312 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:30,317 - root - INFO - ********** Entering username locked_out_user and passwordsecret_sauce**********
+2023-05-21 14:16:30,404 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:16:30,511 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:30,571 - root - INFO - ********** locked_out_usersecret_sauce pass *********
+2023-05-21 14:16:35,612 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:35,613 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:35,618 - root - INFO - ********** Entering username problem_user and passwordsecret_sauce**********
+2023-05-21 14:16:35,699 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:16:35,790 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:35,863 - root - INFO - ********** problem_usersecret_sauce pass *********
+2023-05-21 14:16:40,903 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:40,903 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:40,907 - root - INFO - ********** Entering username fdafasdfa and passworddasdaew**********
+2023-05-21 14:16:40,976 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:16:41,055 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:41,107 - root - INFO - ********** fdafasdfadasdaew pass *********
+2023-05-21 14:16:46,148 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:16:46,149 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:16:46,157 - root - INFO - ********** Entering username performance_glitch_user and passwordsecret_sauce**********
+2023-05-21 14:16:46,238 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:16:46,320 - root - INFO - ********** Checking if password field stars equal stars entered **********
+2023-05-21 14:16:51,375 - root - INFO - ********** performance_glitch_usersecret_sauce pass *********
+2023-05-21 14:21:42,487 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:21:43,209 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:21:46,394 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:46,394 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:46,732 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:46,732 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:46,899 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:46,899 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,074 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,074 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,249 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,249 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,427 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,427 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,578 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,578 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,699 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,699 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:21:47,820 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:21:47,821 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:10,368 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:23:10,840 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:23:13,904 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:13,904 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:13,911 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:23:14,351 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:14,351 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:14,354 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:23:14,589 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:14,590 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:14,594 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:23:14,804 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:14,804 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:14,810 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:23:14,939 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:14,939 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:14,944 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:23:15,156 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:15,156 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:15,162 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:23:15,360 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:15,360 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:15,366 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:23:15,576 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:15,576 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:15,582 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:23:15,771 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:23:15,771 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:23:15,779 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:24:24,480 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:24:24,972 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:24:28,173 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:28,173 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:28,178 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:24:28,614 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:28,614 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:28,618 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:24:28,859 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:28,860 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:28,868 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:24:29,111 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:29,112 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:29,116 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:24:29,257 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:29,258 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:29,264 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:24:29,506 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:29,506 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:29,509 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:24:29,746 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:29,747 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:29,753 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:24:29,962 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:29,962 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:29,969 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:24:30,174 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:30,174 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:30,181 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:24:50,074 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:24:50,538 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:24:53,571 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:53,571 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:53,575 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:24:54,039 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:54,039 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:54,043 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:24:54,262 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:54,262 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:54,269 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:24:54,481 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:54,481 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:54,487 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:24:54,673 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:54,673 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:54,686 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:24:54,915 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:54,916 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:54,920 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:24:55,111 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:55,112 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:55,120 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:24:55,344 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:55,344 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:55,350 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:24:55,546 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:24:55,546 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:24:55,555 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:27:12,893 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:27:13,353 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:27:16,433 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:16,433 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:16,441 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:27:16,566 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:27:16,765 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-21 14:27:21,830 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:21,831 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:21,840 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:27:21,933 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:27:22,081 - root - INFO - ********** standard_user ducks pass *********
+2023-05-21 14:27:27,119 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:27,119 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:27,128 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:27:27,205 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:27:27,351 - root - INFO - ********** username password pass *********
+2023-05-21 14:27:32,387 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:32,388 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:32,396 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:27:32,396 - root - INFO - ********** Checking if None in textbox **********
+2023-05-21 14:27:32,755 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:32,757 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:32,764 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:27:32,848 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:27:32,923 - root - INFO - ********** standard_user None pass *********
+2023-05-21 14:27:37,965 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:37,965 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:37,969 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:27:38,062 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:27:38,214 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-21 14:27:43,256 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:43,256 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:43,262 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:27:43,335 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:27:43,494 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-21 14:27:48,535 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:48,535 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:48,540 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:27:48,608 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:27:48,739 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-21 14:27:53,781 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:27:53,781 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:27:53,786 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:27:53,862 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:27:59,000 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-21 14:29:07,222 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:29:07,725 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:29:10,803 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:10,803 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:10,808 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:29:10,945 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:29:11,273 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:11,273 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:11,279 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:29:11,359 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:29:11,514 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:11,515 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:11,520 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:29:11,599 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:29:11,747 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:11,747 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:11,753 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:29:11,753 - root - INFO - ********** Checking if None in textbox **********
+2023-05-21 14:29:11,895 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:11,895 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:11,900 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:29:11,978 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:29:12,108 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:12,108 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:12,116 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:29:12,203 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:29:12,352 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:12,352 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:12,357 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:29:12,430 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:29:12,566 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:12,566 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:12,571 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:29:12,648 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:29:12,781 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:29:12,782 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:29:12,787 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:29:12,887 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:36:08,924 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:36:09,430 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:36:12,711 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:12,711 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:12,715 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:36:12,826 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:36:13,024 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-21 14:36:18,094 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:18,094 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:18,099 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:36:18,191 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:36:18,347 - root - INFO - ********** standard_user ducks pass *********
+2023-05-21 14:36:23,385 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:23,385 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:23,391 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:36:23,468 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:36:23,616 - root - INFO - ********** username password pass *********
+2023-05-21 14:36:28,650 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:28,650 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:28,657 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:36:28,657 - root - INFO - ********** Checking if None in textbox **********
+2023-05-21 14:36:28,968 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:28,968 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:28,974 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:36:29,065 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:36:29,144 - root - INFO - ********** standard_user None pass *********
+2023-05-21 14:36:34,184 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:34,184 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:34,192 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:36:34,284 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:36:34,445 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-21 14:36:39,484 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:39,484 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:39,489 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:36:39,573 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:36:39,735 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-21 14:36:44,780 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:44,780 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:44,784 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:36:44,865 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:36:45,018 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-21 14:36:50,059 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:36:50,059 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:36:50,065 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:36:50,145 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:36:55,287 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-21 14:40:35,379 - WDM - INFO - ====== WebDriver manager ======
+2023-05-21 14:40:35,942 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-21 14:40:38,852 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:40:38,852 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:40:38,859 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-21 14:40:38,973 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:40:39,162 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-21 14:40:44,236 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:40:44,236 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:40:44,242 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-21 14:40:44,323 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:40:44,475 - root - INFO - ********** standard_user ducks pass *********
+2023-05-21 14:40:49,513 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:40:49,513 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:40:49,516 - root - INFO - ********** Entering username username and password password **********
+2023-05-21 14:40:49,587 - root - INFO - ********** Checking if username in textbox **********
+2023-05-21 14:40:49,728 - root - INFO - ********** username password pass *********
+2023-05-21 14:40:54,768 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:40:54,768 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:40:54,776 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-21 14:40:54,776 - root - INFO - ********** Checking if None in textbox **********
+2023-05-21 14:40:54,917 - root - INFO - ********** None 1234 pass *********
+2023-05-21 14:40:59,958 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:40:59,959 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:40:59,963 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-21 14:41:00,041 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-21 14:41:00,117 - root - INFO - ********** standard_user None pass *********
+2023-05-21 14:41:05,158 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:41:05,158 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:41:05,162 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-21 14:41:05,238 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-21 14:41:05,378 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-21 14:41:10,414 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:41:10,415 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:41:10,419 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-21 14:41:10,495 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-21 14:41:10,641 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-21 14:41:15,686 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:41:15,686 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:41:15,695 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-21 14:41:15,773 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-21 14:41:15,928 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-21 14:41:20,972 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-21 14:41:20,972 - root - INFO - *********** Verifying login DDT test **************
+2023-05-21 14:41:20,978 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-21 14:41:21,062 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-21 14:41:26,201 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
