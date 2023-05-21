@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>Automation Report</h1>
-    <p>Report generated on 21-May-2023 at 14:41:31 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 22-May-2023 at 00:50:56 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -272,8 +272,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Python</td>
         <td>3.11.2</td></tr></table>
     <h2>Summary</h2>
-    <p>9 tests ran in 56.12 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">9 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>14 tests ran in 92.76 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">13 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -284,98 +284,155 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
+      <tbody class="failed results-table-row">
+        <tr>
+          <td class="col-result">Failed</td>
+          <td class="col-name">test_add_to_cart.py::Test_AddToCart::test_001_add_to_cart</td>
+          <td class="col-duration">5.78</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div><div><img src ="screenshots/test_add_to_cart.py_Test_AddToCart_test_001_add_to_cart.png" alt="screenshot" style="width:300px;height=200px"onclick="window.open(this.src)" align="right"/></div></div>
+            <div class="log">self = &lt;TestCases.test_add_to_cart.Test_AddToCart object at 0x000001E9A5393F10&gt;<br/><br/>    def test_001_add_to_cart(self):<br/>        time.sleep(2)<br/>        lp = LoginPage(self.driver)<br/>    <br/>        lp.set_user_name(self.username)<br/>        lp.set_password(self.password)<br/>    <br/>        lp.click_login()<br/>    <br/>        hp = HomePage(self.driver)<br/>&gt;       hp.add_item_to_cart(0)<br/><br/>TestCases\test_add_to_cart.py:27: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br/><br/>self = &lt;pageObjects.home_page.HomePage object at 0x000001E9A5720450&gt;, item = 0<br/><br/>    def add_item_to_cart(self, item):<br/>&gt;       item.find_element(By.XPATH, self.button_add_to_cart_xpath).click()<br/><span class="error">E       AttributeError: &#x27;int&#x27; object has no attribute &#x27;find_element&#x27;</span><br/><br/>pageObjects\home_page.py:73: AttributeError<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-secret_sauce-pass]</td>
-          <td class="col-duration">8.78</td>
+          <td class="col-name">test_cart_001.py::Test_Cart_001::test_cart_001</td>
+          <td class="col-duration">8.08</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
-INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username standard_user and password secret_sauce **********
-INFO     root:test_login_ddt.py:31 ********** Checking if standard_user in textbox **********
-INFO     root:test_login_ddt.py:44 ********** standard_user secret_sauce pass *********<br/></div></td></tr></tbody>
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login.py::Test_001_Login::test_homePageTitle</td>
+          <td class="col-duration">6.64</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:16 *********** Test_001_Login **************
+INFO     root:test_login.py:17 *********** Verifying Home Page Title **************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login_002.py::Test_Login_002::test_login_002</td>
+          <td class="col-duration">8.30</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> ------------------------------Captured stdout call------------------------------ <br/>standard_user
+wow printedEpic sadface: Username and password do not match any user in this service
+<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-secret_sauce-pass]</td>
+          <td class="col-duration">9.99</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username standard_user and password secret_sauce **********
+INFO     root:test_login_ddt.py:33 ********** Checking if standard_user in textbox **********
+INFO     root:test_login_ddt.py:47 ********** standard_user secret_sauce pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-ducks-fail]</td>
-          <td class="col-duration">5.31</td>
+          <td class="col-duration">5.34</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username standard_user and password ducks **********
-INFO     root:test_login_ddt.py:31 ********** Checking if standard_user in textbox **********
-INFO     root:test_login_ddt.py:54 ********** standard_user ducks pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username standard_user and password ducks **********
+INFO     root:test_login_ddt.py:33 ********** Checking if standard_user in textbox **********
+INFO     root:test_login_ddt.py:57 ********** standard_user ducks pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[username-password-fail]</td>
-          <td class="col-duration">5.25</td>
+          <td class="col-duration">5.29</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username username and password password **********
-INFO     root:test_login_ddt.py:31 ********** Checking if username in textbox **********
-INFO     root:test_login_ddt.py:54 ********** username password pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username username and password password **********
+INFO     root:test_login_ddt.py:33 ********** Checking if username in textbox **********
+INFO     root:test_login_ddt.py:57 ********** username password pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[None-1234-fail]</td>
-          <td class="col-duration">5.18</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username None and password 1234 **********
-INFO     root:test_login_ddt.py:31 ********** Checking if None in textbox **********
-INFO     root:test_login_ddt.py:54 ********** None 1234 pass *********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-None-fail]</td>
           <td class="col-duration">5.19</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username standard_user and password None **********
-INFO     root:test_login_ddt.py:31 ********** Checking if standard_user in textbox **********
-INFO     root:test_login_ddt.py:54 ********** standard_user None pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username None and password 1234 **********
+INFO     root:test_login_ddt.py:33 ********** Checking if None in textbox **********
+INFO     root:test_login_ddt.py:57 ********** None 1234 pass *********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[standard_user-None-fail]</td>
+          <td class="col-duration">5.23</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username standard_user and password None **********
+INFO     root:test_login_ddt.py:33 ********** Checking if standard_user in textbox **********
+INFO     root:test_login_ddt.py:57 ********** standard_user None pass *********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[None-None-fail]</td>
+          <td class="col-duration">5.14</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username None and password None **********
+INFO     root:test_login_ddt.py:33 ********** Checking if None in textbox **********
+INFO     root:test_login_ddt.py:57 ********** None None pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[locked_out_user-secret_sauce-fail]</td>
-          <td class="col-duration">5.26</td>
+          <td class="col-duration">5.28</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username locked_out_user and password secret_sauce **********
-INFO     root:test_login_ddt.py:31 ********** Checking if locked_out_user in textbox **********
-INFO     root:test_login_ddt.py:54 ********** locked_out_user secret_sauce pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username locked_out_user and password secret_sauce **********
+INFO     root:test_login_ddt.py:33 ********** Checking if locked_out_user in textbox **********
+INFO     root:test_login_ddt.py:57 ********** locked_out_user secret_sauce pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[problem_user-secret_sauce-pass]</td>
-          <td class="col-duration">5.26</td>
+          <td class="col-duration">5.29</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username problem_user and password secret_sauce **********
-INFO     root:test_login_ddt.py:31 ********** Checking if problem_user in textbox **********
-INFO     root:test_login_ddt.py:44 ********** problem_user secret_sauce pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username problem_user and password secret_sauce **********
+INFO     root:test_login_ddt.py:33 ********** Checking if problem_user in textbox **********
+INFO     root:test_login_ddt.py:47 ********** problem_user secret_sauce pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
@@ -384,21 +441,21 @@ INFO     root:test_login_ddt.py:44 ********** problem_user secret_sauce pass ***
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username fdafasdfa and password dasdaew **********
-INFO     root:test_login_ddt.py:31 ********** Checking if fdafasdfa in textbox **********
-INFO     root:test_login_ddt.py:54 ********** fdafasdfa dasdaew pass *********<br/></div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username fdafasdfa and password dasdaew **********
+INFO     root:test_login_ddt.py:33 ********** Checking if fdafasdfa in textbox **********
+INFO     root:test_login_ddt.py:57 ********** fdafasdfa dasdaew pass *********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login_ddt.py::Test_002_DDT_Login::test_login_ddt[performance_glitch_user-secret_sauce-pass]</td>
-          <td class="col-duration">10.27</td>
+          <td class="col-duration">10.29</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:20 *********** Test_002_DDT_Login ***************
-INFO     root:test_login_ddt.py:21 *********** Verifying login DDT test **************
-INFO     root:test_login_ddt.py:27 ********** Entering username performance_glitch_user and password secret_sauce **********
-INFO     root:test_login_ddt.py:31 ********** Checking if performance_glitch_user in textbox **********
-INFO     root:test_login_ddt.py:44 ********** performance_glitch_user secret_sauce pass *********<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:21 *********** Test_002_DDT_Login ***************
+INFO     root:test_login_ddt.py:22 *********** Verifying login DDT test **************
+INFO     root:test_login_ddt.py:29 ********** Entering username performance_glitch_user and password secret_sauce **********
+INFO     root:test_login_ddt.py:33 ********** Checking if performance_glitch_user in textbox **********
+INFO     root:test_login_ddt.py:47 ********** performance_glitch_user secret_sauce pass *********<br/></div></td></tr></tbody></table></body></html>

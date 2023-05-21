@@ -3941,3 +3941,331 @@
 2023-05-21 14:41:20,978 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
 2023-05-21 14:41:21,062 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
 2023-05-21 14:41:26,201 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-22 00:31:51,397 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:31:51,958 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2023-05-22 00:31:52,615 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+2023-05-22 00:31:54,303 - WDM - INFO - Driver has been saved in cache [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63]
+2023-05-22 00:32:47,053 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:32:47,557 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:35:22,814 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:35:23,422 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:36:32,045 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:36:32,509 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:37:29,620 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:37:30,078 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:37:47,052 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:37:47,547 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:46:36,687 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:46:37,753 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:46:49,927 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:46:50,453 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:24,755 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:24,755 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:24,755 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:24,755 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:24,755 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:25,273 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:25,273 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:25,273 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:25,273 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:25,273 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:30,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:30,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:30,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:30,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:30,879 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:31,431 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:31,431 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:31,431 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:31,431 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:31,431 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:38,968 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:38,968 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:38,968 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:38,968 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:38,968 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:39,699 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:39,699 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:39,699 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:39,699 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:39,699 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:43,601 - root - INFO - *********** Test_001_Login **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Test_001_Login **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Test_001_Login **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Test_001_Login **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Test_001_Login **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-22 00:49:43,601 - root - INFO - *********** Verifying Home Page Title **************
+2023-05-22 00:49:45,611 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:45,611 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:45,611 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:45,611 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:45,611 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:46,532 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:46,532 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:46,532 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:46,532 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:46,532 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:53,918 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:53,918 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:53,918 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:53,918 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:53,918 - WDM - INFO - ====== WebDriver manager ======
+2023-05-22 00:49:54,998 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:54,998 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:54,998 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:54,998 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:54,998 - WDM - INFO - Driver [C:\Users\Limi\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-22 00:49:58,586 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:49:58,586 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:49:58,586 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:49:58,586 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:49:58,586 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:49:58,586 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:49:58,586 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:49:58,586 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:49:58,586 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:49:58,586 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:49:58,592 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-22 00:49:58,592 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-22 00:49:58,592 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-22 00:49:58,592 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-22 00:49:58,592 - root - INFO - ********** Entering username standard_user and password secret_sauce **********
+2023-05-22 00:49:58,704 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:49:58,704 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:49:58,704 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:49:58,704 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:49:58,704 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:49:58,909 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-22 00:49:58,909 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-22 00:49:58,909 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-22 00:49:58,909 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-22 00:49:58,909 - root - INFO - ********** standard_user secret_sauce pass *********
+2023-05-22 00:50:03,998 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:03,998 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:03,998 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:03,998 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:03,998 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:03,998 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:03,998 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:03,998 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:03,998 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:03,998 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:04,009 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-22 00:50:04,009 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-22 00:50:04,009 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-22 00:50:04,009 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-22 00:50:04,009 - root - INFO - ********** Entering username standard_user and password ducks **********
+2023-05-22 00:50:04,098 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:04,098 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:04,098 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:04,098 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:04,098 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:04,256 - root - INFO - ********** standard_user ducks pass *********
+2023-05-22 00:50:04,256 - root - INFO - ********** standard_user ducks pass *********
+2023-05-22 00:50:04,256 - root - INFO - ********** standard_user ducks pass *********
+2023-05-22 00:50:04,256 - root - INFO - ********** standard_user ducks pass *********
+2023-05-22 00:50:04,256 - root - INFO - ********** standard_user ducks pass *********
+2023-05-22 00:50:09,325 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:09,325 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:09,325 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:09,325 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:09,325 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:09,325 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:09,325 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:09,325 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:09,325 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:09,325 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:09,332 - root - INFO - ********** Entering username username and password password **********
+2023-05-22 00:50:09,332 - root - INFO - ********** Entering username username and password password **********
+2023-05-22 00:50:09,332 - root - INFO - ********** Entering username username and password password **********
+2023-05-22 00:50:09,332 - root - INFO - ********** Entering username username and password password **********
+2023-05-22 00:50:09,332 - root - INFO - ********** Entering username username and password password **********
+2023-05-22 00:50:09,403 - root - INFO - ********** Checking if username in textbox **********
+2023-05-22 00:50:09,403 - root - INFO - ********** Checking if username in textbox **********
+2023-05-22 00:50:09,403 - root - INFO - ********** Checking if username in textbox **********
+2023-05-22 00:50:09,403 - root - INFO - ********** Checking if username in textbox **********
+2023-05-22 00:50:09,403 - root - INFO - ********** Checking if username in textbox **********
+2023-05-22 00:50:09,549 - root - INFO - ********** username password pass *********
+2023-05-22 00:50:09,549 - root - INFO - ********** username password pass *********
+2023-05-22 00:50:09,549 - root - INFO - ********** username password pass *********
+2023-05-22 00:50:09,549 - root - INFO - ********** username password pass *********
+2023-05-22 00:50:09,549 - root - INFO - ********** username password pass *********
+2023-05-22 00:50:14,604 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:14,604 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:14,604 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:14,604 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:14,604 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:14,604 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:14,604 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:14,604 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:14,604 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:14,604 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:14,610 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Entering username None and password 1234 **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:14,610 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:14,742 - root - INFO - ********** None 1234 pass *********
+2023-05-22 00:50:14,742 - root - INFO - ********** None 1234 pass *********
+2023-05-22 00:50:14,742 - root - INFO - ********** None 1234 pass *********
+2023-05-22 00:50:14,742 - root - INFO - ********** None 1234 pass *********
+2023-05-22 00:50:14,742 - root - INFO - ********** None 1234 pass *********
+2023-05-22 00:50:19,785 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:19,785 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:19,785 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:19,785 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:19,785 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:19,785 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:19,785 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:19,785 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:19,785 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:19,785 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:19,792 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-22 00:50:19,792 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-22 00:50:19,792 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-22 00:50:19,792 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-22 00:50:19,792 - root - INFO - ********** Entering username standard_user and password None **********
+2023-05-22 00:50:19,881 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:19,881 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:19,881 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:19,881 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:19,881 - root - INFO - ********** Checking if standard_user in textbox **********
+2023-05-22 00:50:19,966 - root - INFO - ********** standard_user None pass *********
+2023-05-22 00:50:19,966 - root - INFO - ********** standard_user None pass *********
+2023-05-22 00:50:19,966 - root - INFO - ********** standard_user None pass *********
+2023-05-22 00:50:19,966 - root - INFO - ********** standard_user None pass *********
+2023-05-22 00:50:19,966 - root - INFO - ********** standard_user None pass *********
+2023-05-22 00:50:25,027 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:25,027 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:25,027 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:25,027 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:25,027 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:25,028 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:25,028 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:25,028 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:25,028 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:25,028 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:25,036 - root - INFO - ********** Entering username None and password None **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Entering username None and password None **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Entering username None and password None **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Entering username None and password None **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Entering username None and password None **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:25,036 - root - INFO - ********** Checking if None in textbox **********
+2023-05-22 00:50:25,122 - root - INFO - ********** None None pass *********
+2023-05-22 00:50:25,122 - root - INFO - ********** None None pass *********
+2023-05-22 00:50:25,122 - root - INFO - ********** None None pass *********
+2023-05-22 00:50:25,122 - root - INFO - ********** None None pass *********
+2023-05-22 00:50:25,122 - root - INFO - ********** None None pass *********
+2023-05-22 00:50:30,160 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:30,160 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:30,160 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:30,160 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:30,160 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:30,161 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:30,161 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:30,161 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:30,161 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:30,161 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:30,168 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-22 00:50:30,168 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-22 00:50:30,168 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-22 00:50:30,168 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-22 00:50:30,168 - root - INFO - ********** Entering username locked_out_user and password secret_sauce **********
+2023-05-22 00:50:30,252 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-22 00:50:30,252 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-22 00:50:30,252 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-22 00:50:30,252 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-22 00:50:30,252 - root - INFO - ********** Checking if locked_out_user in textbox **********
+2023-05-22 00:50:30,412 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-22 00:50:30,412 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-22 00:50:30,412 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-22 00:50:30,412 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-22 00:50:30,412 - root - INFO - ********** locked_out_user secret_sauce pass *********
+2023-05-22 00:50:35,458 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:35,458 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:35,458 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:35,458 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:35,458 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:35,459 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:35,459 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:35,459 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:35,459 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:35,459 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:35,463 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-22 00:50:35,463 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-22 00:50:35,463 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-22 00:50:35,463 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-22 00:50:35,463 - root - INFO - ********** Entering username problem_user and password secret_sauce **********
+2023-05-22 00:50:35,532 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-22 00:50:35,532 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-22 00:50:35,532 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-22 00:50:35,532 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-22 00:50:35,532 - root - INFO - ********** Checking if problem_user in textbox **********
+2023-05-22 00:50:35,703 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-22 00:50:35,703 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-22 00:50:35,703 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-22 00:50:35,703 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-22 00:50:35,703 - root - INFO - ********** problem_user secret_sauce pass *********
+2023-05-22 00:50:40,766 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:40,766 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:40,766 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:40,766 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:40,766 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:40,766 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:40,766 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:40,766 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:40,766 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:40,766 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:40,771 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-22 00:50:40,771 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-22 00:50:40,771 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-22 00:50:40,771 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-22 00:50:40,771 - root - INFO - ********** Entering username fdafasdfa and password dasdaew **********
+2023-05-22 00:50:40,837 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-22 00:50:40,837 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-22 00:50:40,837 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-22 00:50:40,837 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-22 00:50:40,837 - root - INFO - ********** Checking if fdafasdfa in textbox **********
+2023-05-22 00:50:40,989 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-22 00:50:40,989 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-22 00:50:40,989 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-22 00:50:40,989 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-22 00:50:40,989 - root - INFO - ********** fdafasdfa dasdaew pass *********
+2023-05-22 00:50:46,033 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:46,033 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:46,033 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:46,033 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:46,033 - root - INFO - *********** Test_002_DDT_Login ***************
+2023-05-22 00:50:46,033 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:46,033 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:46,033 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:46,033 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:46,033 - root - INFO - *********** Verifying login DDT test **************
+2023-05-22 00:50:46,039 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-22 00:50:46,039 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-22 00:50:46,039 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-22 00:50:46,039 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-22 00:50:46,039 - root - INFO - ********** Entering username performance_glitch_user and password secret_sauce **********
+2023-05-22 00:50:46,120 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-22 00:50:46,120 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-22 00:50:46,120 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-22 00:50:46,120 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-22 00:50:46,120 - root - INFO - ********** Checking if performance_glitch_user in textbox **********
+2023-05-22 00:50:51,281 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-22 00:50:51,281 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-22 00:50:51,281 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-22 00:50:51,281 - root - INFO - ********** performance_glitch_user secret_sauce pass *********
+2023-05-22 00:50:51,281 - root - INFO - ********** performance_glitch_user secret_sauce pass *********

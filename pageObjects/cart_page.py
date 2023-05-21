@@ -13,7 +13,6 @@ class CartPage(BasePage):
     cart_items_name_css_selector = ".inventory_item_name"
     cart_items_button_css_selector = ".cart_item_label .btn"
 
-
     def get_cart_items(self):
         return self.driver.find_elements(By.CSS_SELECTOR, self.cart_items_css_selector)
 
