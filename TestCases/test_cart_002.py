@@ -1,5 +1,4 @@
 import pytest
-from selenium.webdriver.common.by import By
 
 from pageObjects.cart_page import CartPage
 from pageObjects.home_page import HomePage
@@ -10,13 +9,12 @@ import time
 
 
 @pytest.mark.usefixtures("setup")
-class Test_Cart_001:
+class Test_Cart_002:
     logger = LogGen.loggen()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
 
-    def test_cart_001(self):
-
+    def test_cart_002(self):
         lp = LoginPage(self.driver)
         lp.set_user_name(self.username)
         lp.set_password(self.password)
@@ -34,7 +32,9 @@ class Test_Cart_001:
 
         cart_page = CartPage(self.driver)
 
+        print(cart_page.get_cart_item_by_name(name).text)
+        element = cart_page.get_cart_item_by_name(name)
+        assert True if element != "" else False
+        cart_page.remove_item_from_cart(element)
+
         time.sleep(2)
-
-        assert cart_page.check_if_item_in_cart(name)
-

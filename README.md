@@ -1,4 +1,4 @@
-# Saucedemo Automation Project
+# SauceDemo Automation Project
 
 A simple test automation framework practice project
 
@@ -39,7 +39,7 @@ Test case overview can be found here: https://docs.google.com/spreadsheets/d/1m7
 ## TODO
 
 1. Finish adding all the test cases
-2. Implement Azure HTML logs in place pytest-html logs
+2. Implement Allure HTML logs in place pytest-html logs
 3. Add auto email on test run
 4. Finish Folder description section
 5. Add requirements.txt to quickstart

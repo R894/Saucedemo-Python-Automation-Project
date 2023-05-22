@@ -16,8 +16,17 @@ class CartPage(BasePage):
     def get_cart_items(self):
         return self.driver.find_elements(By.CSS_SELECTOR, self.cart_items_css_selector)
 
+    def get_cart_item_by_name(self, name):
+        for x in self.get_cart_items():
+            if name in x.text:
+                return x
+        return None
+
+    def remove_item_from_cart(self, element):
+        element.find_element(By.CSS_SELECTOR, "button").click()
+
     def get_cart_item_pricebar_elements(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, self.cart_items_pricebar_css_selector).text
+        return self.driver.find_elements(By.CSS_SELECTOR, self.cart_items_pricebar_css_selector)
 
     def get_cart_item_pricebars_text(self):
         text_list = []
@@ -30,7 +39,7 @@ class CartPage(BasePage):
     def get_cart_item_names(self):
         text_list = []
 
-        for x in self.get_cart_item_pricebar_elements():
+        for x in self.get_cart_items():
             text_list.append(self.get_cart_item_name(x))
 
         return text_list
@@ -40,3 +49,13 @@ class CartPage(BasePage):
 
     def get_cart_item_name(self, item):
         return item.find_element(By.CSS_SELECTOR, self.cart_items_name_css_selector).text
+
+    def check_if_item_in_cart(self, item_name):
+
+        item_list = self.get_cart_item_names()
+        for item in item_list:
+            print(item)
+        if item_name in item_list:
+            return True
+
+        return False
