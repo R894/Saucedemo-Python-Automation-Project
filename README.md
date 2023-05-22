@@ -12,7 +12,7 @@ Test case overview can be found here: https://docs.google.com/spreadsheets/d/1m7
   `git clone https://github.com/R894/Saucedemo-Python-Automation-Project.git`
 * Install required Python Packages
 
-  `WIP`
+  `pip install -r requirements.txt`
 * Run the tests with run.bat
 
 
@@ -40,6 +40,4 @@ Test case overview can be found here: https://docs.google.com/spreadsheets/d/1m7
 
 1. Finish adding all the test cases
 2. Implement Allure HTML logs in place pytest-html logs
-3. Add auto email on test run
-4. Finish Folder description section
-5. Add requirements.txt to quickstart
+3. Finish Folder description section
