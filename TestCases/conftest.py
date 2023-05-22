@@ -29,6 +29,7 @@ def setup(request, browser):
     request.cls.base_url = base_url
     return driver
 
+
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
 def pytest_runtest_makereport(item, call):
     pytest_html = item.config.pluginmanager.getplugin("html")
