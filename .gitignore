@@ -2,3 +2,6 @@
 /Reports/report.html
 /Reports/assets/style.css
 /Reports/screenshots/
+/Logs/automation.log
+testCases/__pycache__
+/.pytest_cache
