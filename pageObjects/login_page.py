@@ -44,3 +44,8 @@ class LoginPage(BasePage):
     def click_login(self):
         self.driver.find_element(By.ID, self.button_login_id).click()
 
+    def perform_login(self, username, password):
+        self.set_user_name(username)
+        self.set_password(password)
+        self.click_login()
+

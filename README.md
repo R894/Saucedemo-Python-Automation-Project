@@ -41,3 +41,4 @@ Test case overview can be found here: https://docs.google.com/spreadsheets/d/1m7
 1. Finish adding all the test cases
 2. Implement Allure HTML logs in place pytest-html logs
 3. Finish Folder description section
+4. Refactor logging

@@ -7,7 +7,9 @@ from utilities.custom_logger import LogGen
 from utilities import XLUtils
 import time
 
+
 @pytest.mark.regression
+@pytest.mark.sanity
 @pytest.mark.usefixtures("setup")
 class Test_002_DDT_Login:
 

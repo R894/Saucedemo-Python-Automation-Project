@@ -12,9 +12,13 @@ class CartPage(BasePage):
     cart_items_pricebar_css_selector = ".cart_item .item_pricebar"
     cart_items_name_css_selector = ".inventory_item_name"
     cart_items_button_css_selector = ".cart_item_label .btn"
+    cart_checkout_button_id = "checkout"
 
     def get_cart_items(self):
         return self.driver.find_elements(By.CSS_SELECTOR, self.cart_items_css_selector)
+
+    def get_checkout_button(self):
+        self.driver.find_element(By.ID, self.cart_checkout_button_id)
 
     def get_cart_item_by_name(self, name):
         for x in self.get_cart_items():

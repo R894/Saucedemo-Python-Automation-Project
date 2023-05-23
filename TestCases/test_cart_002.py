@@ -23,7 +23,6 @@ class Test_Cart_002:
         hp = HomePage(self.driver)
         item = hp.get_random_inventory_item_index()
         name = hp.get_item_name(item)
-        print(name)
 
         hp.add_item_index_to_cart(item)
         time.sleep(2)
